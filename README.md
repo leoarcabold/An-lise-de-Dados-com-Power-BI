@@ -26,7 +26,7 @@ Descrição do que a visualização mostra.
 Resumo das descobertas, como padrões de vendas, comportamentos de clientes, etc.
 
 ## Demonstração
-[Link para o projeto no GitHub](#) (com o código e dados).
+![Link para o projeto no GitHub](https://github.com/leoarcabold/Analise-de-Dados-com-Power-BI/blob/main/dashboard.jpg)
 
 ## Conclusão
 Este projeto não apenas aprimorou minhas habilidades em Power BI, mas também me permitiu entender melhor a importância da visualização de dados na tomada de decisões.
